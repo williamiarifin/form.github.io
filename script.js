@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const submitBtn = document.getElementById('submitBtn');
 
     // PASTE YOUR GOOGLE APPS SCRIPT WEB APP URL HERE
-    const scriptURL = 'YOUR_WEB_APP_URL_HERE'; 
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbzolqLEeHbAD0nNgbAUe1eEvW2W-1QL7IvKxTK0thtDKFenSwSF2vOxI2wSBBUpNix48Q/exec'; 
 
     // Automatically calculate age based on Date of Birth
     dobInput.addEventListener('change', function() {
